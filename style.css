@@ -37,7 +37,7 @@ body {
 .logo {
     font-weight: 800;
     font-size: 25px;
-    color: #FC697A;
+    color: #FF7A00;
     text-transform: uppercase;
 }
 
@@ -102,7 +102,7 @@ body {
 .btn-1 {
     display: inline-block;
     padding: 13px 25px;
-    background-color: #FC697A;
+    background-color: #FF7A00;
     font-size: 17px;
     color: #FFFFFF;
     border-radius: 15px;
@@ -111,7 +111,7 @@ body {
 }
 
 .btn-1:hover {
-    background-color: #E95F6F;
+    background-color: #FF7A00;
 }
 
 .header-img {
@@ -186,7 +186,7 @@ h2 {
 }
 
 .btn-2:hover {
-    background-color: #FC697A;
+    background-color: #FF7A00;
     color: #FFFFFF;
 }
 
